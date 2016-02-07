@@ -1,0 +1,20 @@
+# Site settings
+title: ./Read-Write
+description: >
+  A blog about technology.
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://Read-Write-Blog" # the base hostname & protocol for your site
+
+author:
+  fullname: base2101
+  # disqus: your_disqus_username
+
+# google_analytics: 'UA-XXXXXXXX-X'
+
+# Handling Reading
+exclude: ["README.md", "README.html"]
+
+# Build settings
+markdown: kramdown
+permalink: /:title
