@@ -1,8 +1,23 @@
-- slug: design
-  name: Design
+- slug: OSX
+  name: osx 
 
-- slug: tools
-  name: Tools
+- slug: Windows
+  name: windows 
 
-- slug: productivity
-  name: Productivity
+- slug: Linux
+  name: linux
+
+- slug: Hardware 
+  name: hardware 
+
+- slug: Software 
+  name: software 
+
+- slug: Networking
+  name: networking 
+
+- slug: Life 
+  name: life 
+
+- slug: Other
+  name: other 
