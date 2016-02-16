@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-subtitle: Just who the hell you think I am?
+subtitle: All about Base2101
 permalink: /about/
 ---
 
