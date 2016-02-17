@@ -1,23 +1,25 @@
-- slug: OSX
-  name: osx 
 
-- slug: Windows
-  name: windows 
+- slug: osx
+  name: OSX
 
-- slug: Linux
-  name: linux
+- slug: windows 
+  name: Windows
 
-- slug: Hardware 
-  name: hardware 
+- slug: linux
+  name: Linux
 
-- slug: Software 
-  name: software 
+- slug: hardware 
+  name: Hardware 
 
-- slug: Networking
-  name: networking 
+- slug: software 
+  name: Software 
 
-- slug: Life 
-  name: life 
+- slug: networking 
+  name: Networking
 
-- slug: Other
-  name: other 
+- slug: life 
+  name: Life 
+
+- slug: other
+  name: Other
+
